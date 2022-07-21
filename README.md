@@ -1,6 +1,7 @@
 # Readme for TheDarkTrumpet
 
-https://github-profile-trophy.vercel.app/?username=TheDarkTrumpet&row=2&column=3
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheDarkTrumpet&row=2&column=3&theme=monokai)](https://github-profile-trophy.vercel.app/?username=TheDarkTrumpet&row=2&column=3&theme=monokai)
+
 
 # About Me
 
